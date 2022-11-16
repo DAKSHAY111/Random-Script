@@ -2,6 +2,8 @@
 
 ### description :-
 
+- This project is made using only html css javascript and bootstrap
+- It contain some usefull tools
 - Random script project based on "Math.Random()" function.
 - we describe how useful "math.random()" function.
 - example 👇
